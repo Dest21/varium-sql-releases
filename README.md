@@ -38,4 +38,4 @@ Varium SQL is proprietary software. See [Terms of Service](https://sql.variumcod
 
 ---
 
-© 2024 Varium. All rights reserved.
+© 2026 VariumCode. All rights reserved.
